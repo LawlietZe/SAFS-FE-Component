@@ -1,6 +1,6 @@
 ![N|Solid](/img/safs_logo.png)
 # Fund 前端使用手册
-version 1.0.0  
+version 1.0.0   2017/04/17
 auth:Fund-FE team
 ## 容器规范
 为保证设计的一致性，我们为页面设定了统一的容器范围，让信息能保持在固定的位置，ring器是用来收纳盒组织对象的存储器，理论上信息不应该超出容器范围。
