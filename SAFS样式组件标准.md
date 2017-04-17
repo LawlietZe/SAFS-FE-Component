@@ -1,4 +1,4 @@
-[![N|Solid](/img/safs_logo.png)](https://www.cn-abs.com/Market/MarketSummary.aspx)
+[![N|Solid](/img/safs_logo.png)(https://www.cn-abs.com/Market/MarketSummary.aspx)
 # Fund 前端使用手册
 ## 容器规范
 为保证设计的一致性，我们为页面设定了统一的容器范围，让信息能保持在固定的位置，ring器是用来收纳盒组织对象的存储器，理论上信息不应该超出容器范围。
@@ -7,7 +7,7 @@
 
 ### 组件名：dialog弹出框
 例子：  
-![N|Solid](/img/dialog.jpg)
+[![N|Solid](/img/dialog.jpg)(https://www.cn-abs.com/Market/MarketSummary.aspx)
 
 布局:  
 弹出框具体扩展大小根据展示内容决定，不应该超出内边距。内边距(padding)设置: 
