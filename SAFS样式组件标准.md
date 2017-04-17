@@ -8,7 +8,8 @@
 ### 组件名：dialog弹出框
 例子：  
 ![N|Solid](/img/dialog.JPG)  
-布局规范:
+布局规范:  
+
 弹出框具体扩展大小根据展示内容决定，不应该超出内边距。内边距(padding)设置: 
  引入fund-panel类 
 
