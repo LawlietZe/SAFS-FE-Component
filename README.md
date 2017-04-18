@@ -2,29 +2,23 @@
 
 `Haoyu` & `Dengdeng`
 
- > 一套好用的金融管理系统UI，为解放后端的审美而生。
+ > Fund_Management_UI 样式规范。
  
-## 题目：响应式金融管理系统UI框架
+### style样式引入：
+- safs_fundMgnt.css
 
-### 产品：
-- safs.css
-- safs.js
-- 视觉设计文档
+### script脚本引入：
+- safs_fundMgnt.js
 
-### 特色：
-- 完整的API文档
- - 包含所有开发金融管理系统常用控件以及代码示例。
-- 跨终端设计
- - 集成bootstrapt的栅格化布局系统，做移动端h5&webapp页面时，有它就Go了！
-- 零学习成本
- - 傻瓜式使用说明文档，复制粘贴就能写出适合产品需求的页面。
+### 说明：
+	前端团队负责不断维护改进此文档
 
-### 参考：
+### 外部引用参考：
 - jQuery,Zepto.js,Seajs 
 - normalize.css,LESS,FontAwesome
 - Bootstrap,Foundation,UIKit,Pure,Framework7,etc
 
-### 兼容：
+### 兼容性：
 - Chrome
-- IE8+
+- IE10+
 - Firefox
