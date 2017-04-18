@@ -39,7 +39,7 @@ auth:Fund-FE team
 
 布局规范: 
 
-整个列表必须左对齐，一般需要设置padding:10px
+整个列表必须左对齐，一般需要设置`padding:10px`
 
 内容规范：
 
