@@ -30,3 +30,5 @@
 ![N|Solid](/img/dialog-2.jpg)
 
 ### 组件名：table列表
+例子：
+![N|Solid](/img/dialog.JPG) 
