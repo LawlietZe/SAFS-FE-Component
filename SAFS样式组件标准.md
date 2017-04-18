@@ -33,4 +33,4 @@
 
 例子：
 
-![N|Solid](/img/table.JPG) 
+![N|Solid](/img/table.jpg) 
