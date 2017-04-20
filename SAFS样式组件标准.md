@@ -49,7 +49,7 @@ auth:Fund-FE team
 
 例子：
 
-![N|Solid](/img/table.jpg) 
+![N|Solid](/img/s-date.jpg) 
 
 布局规范: 
 
