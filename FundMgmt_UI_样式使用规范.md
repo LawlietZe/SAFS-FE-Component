@@ -5,20 +5,15 @@
   
 ![N|Solid](/img/dialog-1.jpg)
 
-### 内容规范：
-
 - 务必引入`fund-panel`类，用于装载弹窗`内容`
 
 - 按钮`下方`应该留足够空间显示`errorMessage`
 
 - label标签统一靠左对齐，分号`：`统一采用中文模式`全角`
 
-
 ## 列表
 
 ![N|Solid](/img/table.jpg) 
-
-### 布局规范: 
 
 - 整个列表必须左对齐，一般需要设置`padding:10px`
 
@@ -27,8 +22,6 @@
 ## 日期控件
 
 ![N|Solid](/img/s-date.jpg) 
-
-### 布局规范: 
 
 - 一般跟在`label`后面
 
