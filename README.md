@@ -14,7 +14,6 @@
 
 ``` npm
 npm install FundMgmt_UI -g
-
 ```
 
 ### 外部引用参考
