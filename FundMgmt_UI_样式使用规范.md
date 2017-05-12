@@ -1,7 +1,7 @@
 ![N|Solid](/img/safs_logo.png)
 # Fund 前端使用手册
 
-`Haoyu` & `Dengdeng`
+`Haoyu` & `Dengdeng` &`FundFE`
 
 2017.5.12
 
