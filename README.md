@@ -13,7 +13,7 @@
 
 - FundMgmt.js
 
-### npm
+### npm安装
 
 ``` npm
 npm install -g FundMgmt_UI 
