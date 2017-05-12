@@ -1,4 +1,4 @@
-![N|Solid](/img/funui_logo.png)
+![N|Solid](/img/funui_logo.png.png)
 # FundMgmt UI
 
 `Haoyu` & `Dengdeng` &`FundFE`
