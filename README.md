@@ -1,4 +1,4 @@
-![N|Solid](/img/fundui_logo.png)
+![N|Solid](/img/safs_logo.png)
 # FundMgmt UI
 
 `Haoyu` & `Dengdeng` &`FundFE`
@@ -6,6 +6,8 @@
 2017.5.12
  
 ### 相关文件
+
+![N|Solid](/img/fundui_logo.png)
 
 - FundMgmt.css
 
