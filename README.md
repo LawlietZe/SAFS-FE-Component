@@ -1,6 +1,8 @@
 ![N|Solid](/img/safs_logo.png)
 # FundMgmt UI
 
+> 一款好用的金融管理系统前端UI
+
 `Haoyu` & `Dengdeng` &`FundFE`
 
 2017.5.12
