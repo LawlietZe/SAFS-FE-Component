@@ -1,6 +1,10 @@
 ![N|Solid](/img/safs_logo.png)
 # Fund 前端使用手册
 
+`Haoyu` & `Dengdeng`
+
+2017.5.12
+
 ## 内容弹窗
   
 ![N|Solid](/img/dialog-1.jpg)
