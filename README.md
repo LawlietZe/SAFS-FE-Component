@@ -10,8 +10,12 @@
 
 - FundMgmt.js
 
-### 说明
-	前端团队负责不断维护改进此文档
+### npm
+
+``` npm
+npm install FundMgmt_UI -g
+
+```
 
 ### 外部引用参考
 
