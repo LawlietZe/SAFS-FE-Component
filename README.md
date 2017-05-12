@@ -1,7 +1,7 @@
 ![N|Solid](/img/safs_logo.png)
 # FundMgmt UI
 
-> 一款好用的金融管理系统前端UI,涵盖常用控件的样式
+> 一款好用的金融管理系统前端UI，涵盖常用控件的样式，持续升级中。
 
 `Haoyu` & `Dengdeng` &`FundFE`
 
