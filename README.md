@@ -1,24 +1,30 @@
-# Safs FundMgmt UI
+# FundMgmt UI
 
-`Haoyu` & `Dengdeng`
+`Haoyu` & `Dengdeng` &`FundFE`
 
- > Fund_Management_UI 样式规范。
+2017.5.12
  
-### style样式引入：
-- safs_fundMgnt.css
+### 样式引入
 
-### script脚本引入：
-- safs_fundMgnt.js
+- FundMgmt.css
 
-### 说明：
+- FundMgmt.js
+
+### 说明
 	前端团队负责不断维护改进此文档
 
-### 外部引用参考：
+### 外部引用参考
+
 - jQuery,Zepto.js,Seajs 
+
 - normalize.css,LESS,FontAwesome
+
 - Bootstrap,Foundation,UIKit,Pure,Framework7,etc
 
-### 兼容性：
+### 兼容性
+
 - Chrome
+
 - IE10+
+
 - Firefox
