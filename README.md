@@ -4,7 +4,7 @@
 
 2017.5.12
  
-### 样式引入
+### 相关文件
 
 - FundMgmt.css
 
@@ -13,7 +13,7 @@
 ### npm
 
 ``` npm
-npm install FundMgmt_UI -g
+npm install -g FundMgmt_UI 
 ```
 
 ### 外部引用参考
